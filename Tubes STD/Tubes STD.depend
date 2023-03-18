@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673123649 source:e:\kahfialbhqi\college\semester 3\jumat\tubes std\main.cpp
+	"penyakit.h"
+
+1673123992 e:\kahfialbhqi\college\semester 3\jumat\tubes std\penyakit.h
+	<iostream>
+
+1673123649 source:e:\kahfialbhqi\college\semester 3\jumat\tubes std\penyakit.cpp
+	"penyakit.h"
+
